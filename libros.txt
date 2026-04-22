@@ -7,4 +7,5 @@ Maze runner
 La mecanica del corazon
 El extranjero
 Kafka
-
+El mundo de sofia
+La reina roja
